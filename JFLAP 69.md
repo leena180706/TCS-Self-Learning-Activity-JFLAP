@@ -74,6 +74,7 @@ Every subset containing the original final state `q2` is an accepting state.
 **Implementation:**
 
 ![NFA to DFA Implementation](images/NFA_to_DFA_Conversion.png)
+![NFA to DFA Implementation](images/NFA_to_DFA_Conversion_OP.png)
 
 ---
 
