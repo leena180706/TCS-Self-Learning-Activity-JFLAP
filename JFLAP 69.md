@@ -1,7 +1,7 @@
 
-# JFLAP – Theory of Computation Lab
+# JFLAP – Theory of Computer Science
 
-This repository contains my practical work and learning in Theory of Computation using JFLAP. It covers different finite automata and computational models with their implementation and testing.
+This repository contains my self learning work in Theory of Computer Science using JFLAP. It covers different finite automata and computational models with their implementation and testing.
 
 ## Practical Work
 
@@ -127,4 +127,4 @@ This Mealy machine detects whether a binary string ends with `01`. It produces o
 
 - **Software:** JFLAP
 - **Concepts:** DFA, NFA, Subset Construction, Moore Machine, Mealy Machine
-- **Subject:** Theory of Computation
+- **Subject:** Theory of Computer Science
